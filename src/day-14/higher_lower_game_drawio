@@ -1,0 +1,80 @@
+<mxGraphModel dx="704" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+    <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+    <mxCell id="m8UKgISf6plg1vAxI-cI-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="m8UKgISf6plg1vAxI-cI-0" edge="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Print logo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+      <mxGeometry x="354" y="120" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="-EgUqXoEMRTH-P55GGoZ-0" value="Start" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+      <mxGeometry x="354" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="-EgUqXoEMRTH-P55GGoZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-EgUqXoEMRTH-P55GGoZ-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m8UKgISf6plg1vAxI-cI-0" target="m8UKgISf6plg1vAxI-cI-2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="m8UKgISf6plg1vAxI-cI-0" value="Get two random accounts from game data" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+      <mxGeometry x="354" y="240" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m8UKgISf6plg1vAxI-cI-2" target="buOV9xKkpRMoh9Kowu_x-2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="m8UKgISf6plg1vAxI-cI-2" value="Ask player which one has more followers" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+      <mxGeometry x="354" y="360" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-2" target="buOV9xKkpRMoh9Kowu_x-11">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="buOV9xKkpRMoh9Kowu_x-12">
+      <mxGeometry x="-0.1376" y="-1" relative="1" as="geometry">
+        <mxPoint as="offset" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-2" target="buOV9xKkpRMoh9Kowu_x-15">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="buOV9xKkpRMoh9Kowu_x-16">
+      <mxGeometry x="-0.1952" relative="1" as="geometry">
+        <mxPoint as="offset" />
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-2" value="Was player right?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="374" y="480" width="80" height="80" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-4" target="buOV9xKkpRMoh9Kowu_x-8">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-4" value="Get secound account and add one random" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="514" y="600" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-8" value="Ask player which one has more followers" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="514" y="720" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-8" target="buOV9xKkpRMoh9Kowu_x-2">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-11" target="buOV9xKkpRMoh9Kowu_x-22">
+      <mxGeometry relative="1" as="geometry">
+        <Array as="points">
+          <mxPoint x="260" y="860" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-11" value="Print player&#39;s score" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="200" y="500" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="buOV9xKkpRMoh9Kowu_x-15" target="buOV9xKkpRMoh9Kowu_x-4">
+      <mxGeometry relative="1" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-15" value="Add one point" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="514" y="500" width="120" height="40" as="geometry" />
+    </mxCell>
+    <mxCell id="buOV9xKkpRMoh9Kowu_x-22" value="End" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+      <mxGeometry x="354" y="840" width="120" height="40" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
